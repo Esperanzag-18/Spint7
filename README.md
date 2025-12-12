@@ -4,3 +4,5 @@ Aplicacion Web implementada en streamlit
 - pandas
 - plotly
 - numpay
+- streamlit
+- seaborn
